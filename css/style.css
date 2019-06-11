@@ -1,0 +1,83 @@
+body{
+  background: gray;
+  max-width: 100%
+}
+
+.carousel-inner img {
+      width: 100%;
+      height: 100%;
+  }
+.block2exit{
+  background: #B0C4DE;
+margin: 0 auto;
+padding-top:50px; 
+text-align: center;
+width: 1110px;
+height: 300px;
+}
+.block3 {
+background: #fad6fa;
+margin: 0 auto;
+padding-top:15px;
+width: 1110px;
+height: 500px;
+
+}
+.input{
+	width: 300px;
+	height: 25px;
+}
+.foto2,  .foto3, .foto4, .foto5, .foto6, .foto7 {
+width: 300px;
+height: 200px;
+
+}
+.acorti, .acorti5{
+float: right;  
+margin: 10px 0 5px 5px; 
+text-align: center;
+}
+.acorti2, .acorti4 {
+float: left;  
+margin: 10px 0 5px 5px; 
+text-align: center;
+}
+.acorti3, .acorti6 {
+float: center ;  
+margin: 10px 0 5px 5px; 
+text-align: center;
+}
+
+.block4 {
+background: #2a3947;
+margin: 0 auto;
+padding-top:15px;
+width: 1110px;
+height:300px;
+}
+.block4order {
+background-color:2a3947;;
+height: 210px;
+padding-top:50px; 
+text-align: center;
+}
+.button {
+	background-color:#66CDAA;
+	border-radius: 5px 5px 5px 5px;
+	color: #ffffff;
+	width: 450px;
+	height: 50px;
+	margin-top: 50px;
+}
+
+.block5 {
+	background: #BC8F8F;
+margin: 0 auto;
+width: 1110px;
+height:100%;
+padding-top:15px;
+}
+.input{
+
+	max-width: 100%
+}
